@@ -1,0 +1,27 @@
+2026-02-03 00:07:25,600 | INFO | Binance Futures Testnet client initialized
+2026-02-03 00:07:25,601 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-03 00:07:31,378 | INFO | API Response: {}
+2026-02-05 08:09:19,008 | INFO | Binance Futures Testnet client initialized
+2026-02-05 08:09:19,010 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-05 08:09:21,944 | INFO | API Response: {}
+2026-02-05 08:11:13,629 | INFO | Binance Futures Testnet client initialized
+2026-02-05 08:11:13,629 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-05 08:11:16,393 | INFO | API Response: {}
+2026-02-05 22:49:09,396 | INFO | Binance Futures Testnet client initialized
+2026-02-05 22:49:26,981 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-05 22:49:49,938 | INFO | Binance Futures Testnet client initialized
+2026-02-05 22:50:01,750 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 1.0}
+2026-02-05 22:50:17,054 | INFO | Binance Futures Testnet client initialized
+2026-02-05 22:50:30,639 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 1.0}
+2026-02-05 22:50:36,830 | INFO | Verified Trade: {'symbol': 'BTCUSDT', 'id': 449590570, 'orderId': 12129621333, 'side': 'SELL', 'price': '66828.40', 'qty': '1', 'realizedPnl': '-863.10000000', 'quoteQty': '66828.40000', 'commission': '26.73136000', 'commissionAsset': 'USDT', 'time': 1770312033881, 'positionSide': 'BOTH', 'buyer': False, 'maker': False}
+2026-02-05 22:50:49,225 | INFO | Binance Futures Testnet client initialized
+2026-02-05 22:51:05,176 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 1.0}
+2026-02-05 22:51:10,932 | INFO | Verified Trade: {'symbol': 'BTCUSDT', 'id': 449591302, 'orderId': 12129626846, 'side': 'BUY', 'price': '66543.10', 'qty': '0.986', 'realizedPnl': '0', 'quoteQty': '65611.49660', 'commission': '26.24459864', 'commissionAsset': 'USDT', 'time': 1770312068001, 'positionSide': 'BOTH', 'buyer': True, 'maker': False}
+2026-02-05 23:02:17,872 | INFO | Binance Futures Testnet client initialized
+2026-02-05 23:02:43,588 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 1.0}
+2026-02-05 23:02:47,240 | INFO | Verified Trade: {'symbol': 'BTCUSDT', 'id': 449599972, 'orderId': 12129713834, 'side': 'SELL', 'price': '66732.50', 'qty': '0.996', 'realizedPnl': '188.65076640', 'quoteQty': '66465.57000', 'commission': '26.58622800', 'commissionAsset': 'USDT', 'time': 1770312764898, 'positionSide': 'BOTH', 'buyer': False, 'maker': False}
+2026-02-05 23:02:57,181 | INFO | Binance Futures Testnet client initialized
+2026-02-05 23:03:16,516 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 1.0}
+2026-02-05 23:08:50,958 | INFO | Binance Futures Testnet client initialized
+2026-02-05 23:09:33,766 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 1.0, 'price': 66732.0, 'timeInForce': 'GTC'}
+2026-02-05 23:09:35,376 | INFO | API Response: {'orderId': 12129751028, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJcf33bda9b0db8ef735937c', 'price': '66732.00', 'avgPrice': '0.00', 'origQty': '1.000', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1770313175328}
